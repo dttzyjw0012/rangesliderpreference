@@ -8,7 +8,7 @@ Android's built-in SeekBarPreference can only include a single slider, thus can 
 **Range Slider Preference** is able to show/set several values per preference, covering SeekBarPreference's shortcoming.
 
 **How to include**  
-You can clone this repository using git, or simply add it to your project as a submodule (git submodule add https://github.com/siavash79/rangesliderpreference.git)
+You can clone this repository using git, or simply add it to your project as a submodule (git submodule add https://github.com/dttzyjw0012/rangesliderpreference.git)
 
 To use this preference in your apps, simply add this repository to your project as a module, and add the module to your app's dependencies.
 
